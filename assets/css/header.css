@@ -1,0 +1,4 @@
+.title { font-weight: 700; }
+
+.nav-item { background-color: #ff8800; padding: 5px; margin: 5px; border-radius: 30px; font-weight: 500; transition: all 300ms ease-in-out; }
+.nav-item:hover { background-color: #e97d01; }
