@@ -1,0 +1,52 @@
+footer{
+ 
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    color: black;
+    font-weight: bold;
+    margin-top: 10px;
+    width: 400px;
+    border: none;
+    outline: none;
+   border-bottom: 1px solid black;
+}
+textarea{
+ color: black;
+ font-weight: bold;
+margin-top: 10px;
+outline: none;
+border: none;
+border-bottom: 1px solid black;
+}
+.borde{
+    margin-top: 20px;
+    width: 80px;border-right: 1px  solid black;
+}
+iframe{
+    margin-left: 20px;
+    border-radius: 15px;
+    width: 200px;height: 70px;
+
+}
+.local{
+    margin-left: 15px;
+   
+}
+.redes{
+    margin-left: 10px;
+}
+i{
+    margin-left: 10px;
+    color: black;
+}
+span{
+    font-weight: bolder;
+}
+.imag{
+    margin-left: 10px;
+    width: 200px;
+}
